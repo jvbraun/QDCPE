@@ -1,0 +1,17 @@
+QDCPE
+=====
+
+Quasi-deviance Change-point Estimation by Ronald Braun
+
+Change-points are a useful statistical model. The C++ research code 
+in this archive was developed to explore the properties of the 
+quasi-deviance change-point estimation methodology.  The quasi-likelihood 
+is a semi-parametric extension of the likelihood. 
+
+The methodology is described in:
+
+JV Braun, RK Braun, and H-G Mueller (2000) Multiple changepoint 
+fitting via quasilikelihood, with application to DNA sequence segmentation.
+Biometrika 87(2): 301--314.
+
+http://biomet.oxfordjournals.org/content/87/2/301.abstract
